@@ -51,7 +51,6 @@ function draw() {
 
   star.x=starBody.position.x;
   star.y=starBody.position.y;
-  f
   
   drawSprites();
 
